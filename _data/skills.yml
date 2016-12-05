@@ -1,20 +1,23 @@
-- name: Python
+- name: Java
   percentage: 85
 
-- name: HTML/CSS
-  percentage: 65
+- name: Spring
+  percentage: 75
+
+- name: Hibernate
+  percentage: 80
+
+- name: Struts/Spring MVC
+  percentage: 75
+
+- name: jQuery/Dojo
+  percentage: 80
+
+- name: DevOps/Docker
+  percentage: 70
 
 - name: Linux/Shell
   percentage: 75
 
-- name: jQuery
-  percentage: 85
-
-- name: AngularJS
-  percentage: 80
-
-- name: Ionic
-  percentage: 70
-
-- name: Vuejs
-  percentage: 65
+- name: Agile/Scrum
+  percentage: 75
