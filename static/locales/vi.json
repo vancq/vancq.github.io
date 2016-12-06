@@ -3,13 +3,13 @@
     "title": "Van's blog"
   },
   "nav":{
-    "home": "Home",
-    "about_me": "About",
-    "skills": "Skills",
-    "projects": "Projects",
-    "career": "Career",
+    "home": "Trang chủ",
+    "about_me": "Tôi",
+    "skills": "Kỹ Năng",
+    "projects": "Dự án",
+    "career": "Kinh nghiệm",
     "blog": "Blog",
-    "link": "Link"
+    "link": "Liên kết"
   },
   "about_me":{
     "about_me": "About Me",
@@ -29,15 +29,15 @@
     "my_career": "My Career",
     "viettel": "Viettel",
     "viettel_des": "Now I am in Viettel and develop website with Java code for genetic analysis.",
-    "viettel_date": "Jun. 2015",
+    "viettel_date": "Apr. 2016",
     "viettel_job": "Java Developer",
     "arfm": "ARFM",
     "arfm_des": "In ARFM, I started to deal with servers and Linux system and use shell scripts to manage massive server.",
-    "arfm_date": "Feb. 2013",
+    "arfm_date": "Sep. 2013",
     "arfm_job": "Dev Ops",
     "fpt": "FPT",
     "fpt_des": "In ARFM, I started to deal with servers and Linux system and use shell scripts to manage massive server.",
-    "fpt_date": "Aug. 2011",
+    "fpt_date": "Sep. 2011",
     "fpt_job": "Dev Ops",
     "college": "Graduation",
     "college_des": "At July 2011,I graduated from college and started my IT technology tour.",
